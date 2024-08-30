@@ -35,7 +35,7 @@
         android:layout_marginBottom="20dp"
         android:background="@color/white"
         android:padding="20dp"
-        android:hint="Masukan Username" />
+        android:hint="Masukan Nomer HP" />
 
     <EditText
         android:id="@+id/etPassword"
