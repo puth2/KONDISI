@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="#E00000" /> <!-- Warna latar belakang tombol -->
+    <solid android:color="#141E46" /> <!-- Warna latar belakang tombol -->
     <corners android:radius="20dp" /> <!-- Radius sudut tombol -->
     <padding
         android:left="10dp"
